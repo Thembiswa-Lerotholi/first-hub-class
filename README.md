@@ -1,3 +1,10 @@
-# First Hub Project
-# My first git project
-### Well well well, I go by the name **Thembiswa Lerotholi** but, **Tem Tem** is just fine. i am a _"Second year"_ student at Botho University doing BSc honors in Computing and I'm very excited to be one of the crazy enough people to join the Innovation Hub, to challenge myself and to see how far I can go.Well I really dont have anything to brag about except that I'm a very determined and persistent person no matter how sticky the situation is, I always find a solution, so trouble always finds me. also I'm a talk to person,  a people's person. I tried and failed at a lot of things in the past, but I really am never a give up person so I keep on trying and I'm going to try to do the best of the opportunity that I got to be a member of this Hub. plus I don't like being too comfortable, which would make me forget the main purpose to join the HUB a.k.a the "_idiots Hub_". seeing that we work together as a team and no need to feel out of the place,  I bet I'll enjoy every challenge I come across... that's all for now.
+# HERO-SECTION
+# Marketing for Thulani's library
+
+* Taurus@ThulaniLib is a website advertising My Library that has just opened doors to everyone to read feely.
+* The reason for choosing this name is **Thulani** means "Be Silent" and a library is Quiet place.
+* The webpage consists of:
+* Navigation bar with a logo
+* A picture showing the interior design of the library.(the intention is to showcase the comfortability and coziness providing a suitable space to indulge in the book.)
+* 
+
