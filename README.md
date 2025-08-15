@@ -10,7 +10,7 @@
    * Hyperlinked buttons though no links were added for referencing, because i could not find  suitable websites to link to mine...
    * Icons extracted from the React-icons library of which I used to invite viewers to follow us on social-media platforms.
    * A footer that is similar to the logo.
-#### **Problems encountered: **
+#### **Problems encountered:**
    + At first I could not use the tailwindcss utility classes or rather tailwind in all because i had made an error when installing it in my React app, and trying to fix it made thingd worse, so I decided to start afresh.
    + Applying the tailwindcss utility classes became a bit of a problem I sometimes added the traditional CSS classes, but thanks to double-chaecking I could spot them, erase them and use the tailwindcss utility classes.
    + The reason for adding the same logo and footer is because the responsivess of my webpage has some issues, on small screens the logo doesnot appear so I used the footer as an alternative for now as I work on fixing the issue.
